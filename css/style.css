@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgb(255, 199, 199);
+    text-align: center;
+    height: 150px;
+    margin: 0.5%;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    height: 500px;
+    width: 14.5%;
+    text-align: center;
+    background-color: rgb(255, 139, 139);
+    float: left;
+    margin-right: 0.5%;
+    margin-left: 0.5%;
+}
+.right{
+    background-color: rgb(179, 97, 97);
+    height: 500px;
+    width: 84%;
+    text-align: center;
+    float: right;
+    margin-right: 0.5%;
+}
+.footer{
+    background-color: rgb(250, 187, 187);
+    text-align: center;
+    height: 100px;
+    margin: 5px;
+}
